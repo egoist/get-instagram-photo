@@ -1,6 +1,6 @@
 {
   "name": "get-instagram-photo",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Get Instagram photo by URL.",
   "license": "MIT",
   "repository": "egoist/get-instagram-photo",
