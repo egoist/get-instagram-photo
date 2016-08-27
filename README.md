@@ -1,3 +1,5 @@
+> This package is deprecated in favor of the API https://api.instagram.com/oembed/?url=https://www.instagram.com/p/BJmERWHgFEd/
+
 <p align="center">
   <br><strong>get-instagram-photo</strong><br> helps you get Instagram photo by URL.
 </p>
